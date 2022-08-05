@@ -1,5 +1,5 @@
 <div>
-    <a target='_blank' href="[https://linkedin.com/in/michelson-lima-a168191a6/](https://www.linkedin.com/in/michelson-lima-a168191a6/)">
+    <a target='_blank' href="[https://linkedin.com/in/michelson-lima-a168191a6/]( https://www.linkedin.com/in/michelson-lima-a168191a6/ )">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 

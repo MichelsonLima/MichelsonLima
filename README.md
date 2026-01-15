@@ -4,8 +4,8 @@
 🌑 <span>Michelson Lima</span>
 </h1>
 <div>
-<p>Atualmente cursando o curso de Ciência da Computação na UFRPE. Estou focando em estudar na área de Front-End, que é a área que me identifico, pois sempre gostei dessa parte mais visual e criativa.</p><br>
-<p>Tenho focado em aprender tecnologias como HTML, CSS, JavaScript, e posteriormente me introduzir em algum framework como o React.</p>
+<p>Atualmente cursando o curso de Ciência da Computação na UFRPE. Estou focando em estudar na área de back-end.</p><br>
+
     
 </div>
 

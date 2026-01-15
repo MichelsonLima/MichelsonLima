@@ -4,7 +4,7 @@
 🌑 <span>Michelson Lima</span>
 </h1>
 <div>
-<p>Atualmente cursando o curso de Ciência da Computação na UFRPE. Estou focando em estudar na área de back-end.</p><br>
+<p>Perfil em construção...</p><br>
 
     
 </div>
